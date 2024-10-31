@@ -1,0 +1,55 @@
+form.nuar_list_users th#id {
+    width: 100px;
+}
+form.nuar_list_users {
+    margin-right: 20px;
+}
+table.data_table{
+    background-color: #fff;
+    display: inline-block;
+    width: 95%;
+    border: 1px solid #2271b1;
+    padding: 10px;
+}
+table.data_table tbody {
+    display: inline-block;
+    width: 100%;
+}
+table.data_table tbody tr {
+    display: inline-block;
+    width: 100%;
+}
+table.data_table tbody tr th {
+	vertical-align: top;
+    text-align: left;
+    padding: 10px;
+    width: 25%;
+    font-weight: 600;
+    display: inline-block;
+}
+table.data_table tbody tr td{
+    vertical-align: top;
+    text-align: left;
+    padding: 10px;
+    width: 70%;
+    display: inline-block;
+}
+p.discription {
+    margin: 0px;
+    font-size: 12px;
+    font-style: italic;
+    display: inline-block;
+    vertical-align: top;
+    color: #969696;
+}
+.submit_button {
+    margin: 10px 0px;
+}
+img.avatar.avatar-96.photo {
+    width: 40px;
+    height: 40px;
+}
+img.nuar_rating_div {
+    width: 100px;
+    vertical-align: middle;
+}
